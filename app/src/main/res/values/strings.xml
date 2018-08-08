@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Clase2-Practica1</string>
+    <string name="user">User</string>
+    <string name="textUser">User</string>
+    <string name="password">Password</string>
+    <string name="textPassword">Password</string>
+    <string name="enter">Enter</string>
+    <string name="register">Register</string>
+</resources>
